@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaylef and I'm studying to become analyst-programmer.
-- 👀 I’m interested in learning the basics of the most used lnguages in software development.
-- 🌱 I’m currently learning C# and learning how to create webpages from scratch using HTML and CSS.
-- 💞️ I’m looking to collaborate on mostly collaborative projects with my fellow students in my program, but any small prjects to perfect my knowledge would be good.
+- 👀 I’m interested in learning the basics of the most used languages in software development.
+- 🌱 
+- 💞️ I’m looking to collaborate on mostly collaborative projects with my fellow students in my program, but any small projects to perfect my knowledge would be good.
 - 📫 You can reach me by email soon.
 
 <!---
